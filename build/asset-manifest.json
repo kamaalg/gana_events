@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65c51f75.css",
+    "main.js": "/static/js/main.deab0325.js",
+    "static/media/video.mp4": "/static/media/video.89538e83e78f595381e1.mp4",
+    "static/media/image.jpeg": "/static/media/image.5ec5c2246ece51809ca0.jpeg",
+    "static/media/azerbaijan.png": "/static/media/azerbaijan.ddc61bf3c7c0c96c7b60.png",
+    "static/media/united-kingdom.png": "/static/media/united-kingdom.b9a2ba74e5f8a55977e7.png",
+    "static/media/russia.png": "/static/media/russia.e314a09bbab1844bfaea.png",
+    "index.html": "/index.html",
+    "main.65c51f75.css.map": "/static/css/main.65c51f75.css.map",
+    "main.deab0325.js.map": "/static/js/main.deab0325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65c51f75.css",
+    "static/js/main.deab0325.js"
+  ]
+}
